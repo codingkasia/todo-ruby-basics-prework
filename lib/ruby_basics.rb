@@ -11,16 +11,18 @@ def argue(argument)
   
 end
 
-def greeting
+def greeting(greeting, name)
+  
 
 end
 
-def return_a_value
+def return_a_value(phrase)
+  phrase
 
 end
 
 def last_evaluated_value
-
+ return "expert"
 end
 
 def pizza_party
