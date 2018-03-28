@@ -21,8 +21,8 @@ def return_a_value(phrase)
 
 end
 
-def last_evaluated_value(string)
- string
+def last_evaluated_value(expert)
+ expert
 end
 
 def pizza_party(ingr ="cheese")
